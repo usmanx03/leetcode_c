@@ -1,0 +1,1 @@
+gcc problems/happy_number.c -std=c99 -Wall -Werror -g -o output && ./output
